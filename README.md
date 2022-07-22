@@ -1,5 +1,5 @@
-## C Starter Pack
+## Pacote inicial C
 
-### One of my goals as a programmer is to contribute a code to the Linux Kernel. So I think it's the right time to learn C. 
+### Um dos meus objetivos como programador é contribuir com um código para o Kernel Linux. Então eu acho que é o momento certo para aprender C.
 
-*One step for a man, a giant leap for mankind.*
+*Um passo para um homem, um salto gigante para a humanidade.*
